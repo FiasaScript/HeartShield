@@ -49,3 +49,7 @@ Make sure you have **Python 3.8+** installed on your machine.
    ```bash
    git clone [https://github.com/FiasaScript/cardio-risk-screening.git](https://github.com/FiasaScript/cardio-risk-screening.git)
    cd cardio-risk-screening
+
+## Run through Stlit Cloud Community
+```bash
+https://heartshield-7seqdbps3ubxatdeyyprsq.streamlit.app
